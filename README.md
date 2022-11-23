@@ -1,3 +1,2 @@
-<div aligin="center">
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hdygxsj)]()
-</div>
+<center>[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hdygxsj)]()</center>
+
