@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Hi there 👋
+### Hi 👋
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdygxsj&show_icons=true&theme=radical"/>
